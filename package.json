@@ -1,6 +1,6 @@
 {
   "name": "@sssservices/config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description":
     "[READ ONLY] Subtree split of the Sssservices Config component (see @sssservices/framework)",
   "main": "repository.js",
